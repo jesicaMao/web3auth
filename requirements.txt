@@ -1,2 +1,4 @@
 eth-account>=0.5.9
-web3>=6.15.1 
+web3>=6.15.1
+eth-keys>=0.4.0
+cryptography>=42.0.0 

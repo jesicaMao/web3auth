@@ -4,4 +4,5 @@ eth-keys>=0.4.0
 cryptography>=42.0.0
 eth-hash[pycryptodome]>=0.5.1
 pytest>=7.4.0
-pytest-cov>=4.1.0 
+pytest-cov>=4.1.0
+python-dotenv>=1.0.0 
